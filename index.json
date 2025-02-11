@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Inorbit Mall",
+        "image": "https://www.sakshipost.com/sites/default/files/article_images/2017/08/30/4.jpg",
+        "rating": 4.3,
+        "category": "Shopping, Entertainment",
+        "about": "A modern shopping mall with a variety of retail outlets, dining options, and entertainment in Hyderabad's Hitech City.",
+        "contact": "+91 1234567890",
+        "address": "Inorbit Mall, Cyberabad, Hyderabad",
+        "latitude": 17.4480,
+        "longitude": 78.3803
+    },
+    {
+        "id": 2,
+        "name": "Shilparamam Mall",
+        "image": "https://th.bing.com/th/id/OIP.ndDgwqPLTwbfza3s5YgDRgHaFY?rs=1&pid=ImgDetMain",
+        "rating": 4.1,
+        "category": "Cultural, Handicrafts, Shopping",
+        "about": " A cultural and handicraft mall showcasing traditional Indian arts, crafts, and cultural experiences.",
+        "contact": "+91 9876543210",
+        "address": "Shilparamam, Hi-Tech City, Hyderabad",
+        "latitude": 17.4483,
+        "longitude": 78.3807
+    },
+    {
+        "id": 3,
+        "name": "Forum Sujana Mall",
+        "image": "https://i.ytimg.com/vi/R6zqnIwZapA/maxresdefault.jpg",
+        "rating": 4.0,
+        "category": "Shopping, Dining",
+        "about":" A popular shopping mall in KPHB offering retail stores, dining, and entertainment options.",
+        "contact": "+91 9876543220",
+        "address": "Forum Sujana Mall, KPHB, Hyderabad",
+        "latitude": 17.4894,
+        "longitude": 78.3892
+    },
+    {
+        "id": 4,
+        "name": "GVK One Mall",
+        "image": "https://shapoorji.in/wp-content/uploads/2017/04/GVK_Mall-750x422.jpg",
+        "rating": 4.5,
+        "category": "Shopping, Dining, Entertainment",
+        "about": "A premium mall in Banjara Hills known for its shopping, fine dining, and entertainment experiences.",
+        "contact": "+91 1236549870",
+        "address": "GVK One Mall, Banjara Hills, Hyderabad",
+        "latitude": 17.4217,
+        "longitude": 78.4524
+    },
+    {
+        "id": 5,
+        "name": "Lifestyle Mall",
+        "image": "https://im.whatshot.in/img/2019/Oct/lifestyle-1571332827.jpg",
+        "rating": 4.2,
+        "category": "Shopping, Fashion",
+        "about": "A fashion-focused shopping mall in Ameerpet offering a range of international and local brands.",
+        "contact": "+91 9876543230",
+        "address": "Lifestyle Mall, Ameerpet, Hyderabad",
+        "latitude": 17.4478,
+        "longitude": 78.4534
+    },
+    {
+        "id": 6,
+        "name": "Inorbit Mall",
+        "image": "https://www.sakshipost.com/sites/default/files/article_images/2017/08/30/4.jpg",
+        "rating": 4.4,
+        "category": "Shopping, Entertainment, Dining",
+        "about": "A modern shopping mall with a variety of retail outlets, dining options, and entertainment in Hyderabad's Hitech City.",
+        "contact": "+91 9876543240",
+        "address": "Inorbit Mall, Hitech City, Hyderabad",
+        "latitude": 17.4487,
+        "longitude": 78.3800
+    },
+    {
+        "id": 7,
+        "name": "Lulu Mall",
+        "image": "https://palakkad.lulumall.in/wp-content/uploads/2023/12/Front-facade_Lulu-Hyd-1536x968.jpeg",
+        "rating": 4.6,
+        "category": "Shopping, Dining, Entertainment",
+        "about": "A large shopping and entertainment complex offering a wide range of retail stores, restaurants, and fun activities.",
+        "contact": "+91 9876543250",
+        "address": "Lulu Mall, Whitefield, Hyderabad",
+        "latitude": 17.5012,
+        "longitude": 78.6147
+    },
+    {
+        "id": 8,
+        "name": "Sarath City Capital Mall",
+        "image": "https://newsblare.com/wp-content/uploads/2020/04/City-Capital-Mall-Hyderabad.jpg",
+        "rating": 4.0,
+        "category": "Shopping, Dining",
+        "about": "A shopping destination in Ameerpet with a variety of retail stores and dining choices.",
+        "contact": "+91 9876543260",
+        "address": "AMD Mall, Ameerpet, Hyderabad",
+        "latitude": 17.4390,
+        "longitude": 78.4563
+    },
+    {
+        "id": 9,
+        "name": "GVK One Mall",
+        "image": "https://shapoorji.in/wp-content/uploads/2017/04/GVK_Mall-750x422.jpg",
+        "rating": 4.5,
+        "category": "Shopping, Dining, Entertainment",
+        "about": "A premium mall in Banjara Hills known for its shopping, fine dining, and entertainment experiences.",
+        "contact": "+91 1236549870",
+        "address": "GVK One Mall, Banjara Hills, Hyderabad",
+        "latitude": 17.4217,
+        "longitude": 78.4524
+    },
+    {
+        "id": 10,
+        "name": "Lifestyle Mall",
+        "image": "https://im.whatshot.in/img/2019/Oct/lifestyle-1571332827.jpg",
+        "rating": 4.2,
+        "category": "Shopping, Fashion",
+        "about": "A fashion-focused shopping mall in Ameerpet offering a range of international and local brands.",
+        "contact": "+91 9876543230",
+        "address": "Lifestyle Mall, Ameerpet, Hyderabad",
+        "latitude": 17.4478,
+        "longitude": 78.4534
+    }  
+]
